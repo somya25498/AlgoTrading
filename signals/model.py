@@ -4,4 +4,6 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 import numpy as np
 from pathlib import Path
+fetch (fetch data):
+
 
